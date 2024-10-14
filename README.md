@@ -5,7 +5,7 @@
 
 | Blog Name       | Description                            | Problem Solved                     | Repo                          | Date Added   |
 |-----------------|----------------------------------------|------------------------------------|------------------------------|--------------|
-| [Example Blog 1](https://example.com/blog1)  | A deep dive into Kotlin coroutines.<br>Explains how to use coroutines effectively. | Understanding and using Kotlin coroutines | [Repo](https://github.com/example/repo1) | 2024-09-30   |
+| [Example Blog 1](https://gorkemkara.net/kotlin-coroutines-asynchronous-programming-in-android/)  | A deep dive into Kotlin coroutines.<br>Explains how to use coroutines effectively. | Understanding and using Kotlin coroutines | [Repo](https://github.com/example/repo1) | 2024-09-30   |
 | [Example Blog 5](https://example.com/blog5)  | Implementing MVVM in Android.<br>Guides on setting up MVVM architecture in Android apps. | Setting up MVVM architecture in Android apps | [Repo](https://github.com/example/repo5) | 2024-09-30   |
 
 ## Cloud Security
