@@ -6,8 +6,12 @@
 | Blog Name       | Description                            | Problem Solved                     | Repo                          | Date Added   |
 |-----------------|----------------------------------------|------------------------------------|------------------------------|--------------|
 | [Kotlin Coroutine](https://gorkemkara.net/kotlin-coroutines-asynchronous-programming-in-android/)  | A deep dive into Kotlin coroutines.<br>Explains how to use coroutines effectively. | Understanding and using Kotlin coroutines | [Repo](https://github.com/example/repo1) | 2024-09-30   |
-| [parcelable vs serializable](https://theadityatiwari.medium.com/understanding-parcelable-vs-serializable-in-android-427c9b9bdce5)  | Understanding Parcelable vs. Serializable in Android. | 2024-10-14   |
-| [Callback to Coroutines in Kotlin](https://outcomeschool.com/blog/callback-to-coroutines-in-kotlin)  | Callback to Coroutines in Kotlin In Kotlin. | 2024-10-17   |
+| [Parcelable vs Serializable](https://theadityatiwari.medium.com/understanding-parcelable-vs-serializable-in-android-427c9b9bdce5)  | Understanding Parcelable vs. Serializable in Android. | 2024-10-14   |
+| [Callback to Coroutines in Kotlin](https://outcomeschool.com/blog/callback-to-coroutines-in-kotlin)  | Callback to Coroutines  In Kotlin. | -    | - | 2024-10-17| 
+
+
+| [Compose & UI Articles by Tunjid](https://www.tunjid.com/articles)  | Jetpack-compose In Kotlin X Architecture x Design & UI |  -  | -  | 2024-10-19
+
 
 ## Cloud Security
 
