@@ -10,6 +10,7 @@
 | [Callback to Coroutines in Kotlin](https://outcomeschool.com/blog/callback-to-coroutines-in-kotlin)  | Callback to Coroutines  In Kotlin. | -    | - | 2024-10-17| 
 | [Compose & UI Articles by Tunjid](https://www.tunjid.com/articles)  | Jetpack-compose In Kotlin X Architecture x Design & UI |  -  | -  | 2024-10-19 |
 | [10 Essential Skills Every Cloud Engineer Needs To Succeed](https://www.linkedin.com/pulse/10-essential-skills-every-cloud-engineer-needs-succeed-greg-powell-nlsfc?utm_source=share&utm_medium=member_android&utm_campaign=share_via)  | Getting into Cloud Engineering and DevOps. | -    | - | 2024-10-19| 
+| [Migrating build logic from Groovy to Kotlin](https://shorturl.at/gREhT)  | Converting your Groovy-based Gradle build scripts to Kotlin |  -  | -  | 2024-10-21 |
 
 
 
