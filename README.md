@@ -11,6 +11,8 @@
 | [Compose & UI Articles by Tunjid](https://www.tunjid.com/articles)  | Jetpack-compose In Kotlin X Architecture x Design & UI |  -  | -  | 2024-10-19 |
 | [10 Essential Skills Every Cloud Engineer Needs To Succeed](https://www.linkedin.com/pulse/10-essential-skills-every-cloud-engineer-needs-succeed-greg-powell-nlsfc?utm_source=share&utm_medium=member_android&utm_campaign=share_via)  | Getting into Cloud Engineering and DevOps. | -    | - | 2024-10-19| 
 | [Migrating build logic from Groovy to Kotlin](https://shorturl.at/gREhT)  | Converting your Groovy-based Gradle build scripts to Kotlin |  -  | -  | 2024-10-21 |
+| [Kotlin Stacks & Queues (ArrayDeque & LinkedList)](https://tinyurl.com/Kotlin-Stacks-and-QueuesDSA)  | DSA In Kotlin - Stacks & Queues x Implementation|  -  | -  | 2024-10-22 |
+| [Data Structures in Kotlin: Stack & Queue by Daniely Murua](https://tinyurl.com/DSA-Kotlin)  | Stacks and Queues by Murua |  -  | -  | 2024-10-22 |
 
 
 
