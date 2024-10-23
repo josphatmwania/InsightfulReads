@@ -15,6 +15,9 @@
 | [Data Structures in Kotlin: Stack & Queue by Daniely Murua](https://tinyurl.com/DSA-Kotlin)  | Stacks and Queues by Murua |  -  | -  | 2024-10-22 |
 | [Android Core Building Blocks: A Simple Guide](https://tinyurl.com/android-building-blocks)| A Detailed Android Core Building Blocks|  -  | -  | 2024-10-23 |
 | [Android Developer Fundamentals(Version 2) — Concepts](https://tinyurl.com/android-xml-reference)  | My Guide future Love letter For Legacy Project In Java/XML to Jetpack-compose In Kotlin Migration|  -  | -  | 2024-10-23 |
+| [Layouts in views](https://www.tunjid.com/articles)  | Official Documentation from Google for Views(XML) Implementation |  -  | -  | 2024-10-23 |
+
+
 
 
 
