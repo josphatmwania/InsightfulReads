@@ -13,6 +13,7 @@
 | [Migrating build logic from Groovy to Kotlin](https://shorturl.at/gREhT)  | Converting your Groovy-based Gradle build scripts to Kotlin |  -  | -  | 2024-10-21 |
 | [Kotlin Stacks & Queues (ArrayDeque & LinkedList)](https://tinyurl.com/Kotlin-Stacks-and-QueuesDSA)  | DSA In Kotlin - Stacks & Queues x Implementation|  -  | -  | 2024-10-22 |
 | [Data Structures in Kotlin: Stack & Queue by Daniely Murua](https://tinyurl.com/DSA-Kotlin)  | Stacks and Queues by Murua |  -  | -  | 2024-10-22 |
+| [Android Core Building Blocks: A Simple Guide](https://tinyurl.com/android-building-blocks)| A Detailed Android Core Building Blocks|  -  | -  | 2024-10-23 |
 
 
 
