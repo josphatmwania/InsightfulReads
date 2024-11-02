@@ -18,7 +18,8 @@
 | [Layouts in views](https://www.tunjid.com/articles)  | Official Documentation from Google for Views(XML) Implementation |  -  | -  | 2024-10-23 |
 | [Android Interview Questions and Answers](https://tinyurl.com/android-interview-cheatsheet)| Android Interview Questions and Answers Cheetsheet by Amit |  -  | -  | 2024-10-23 |
 | [Mastering Android ViewModels: Essential Dos and Don’ts](https://shorturl.at/2GPmF)| Mastering Android ViewModels: Essential Dos and Don’ts Part 1 - 5 |  -  | - | 2024-10-31 |
-| [Jetpack Compose: Managing Side Effects Effectively](https://www.tunjid.com/articles)  | Mastering DisposableEffect in Jetpack Compose: Managing Side Effects Effectively|  -  | -  | 2024-11-02 |
+| [Jetpack Compose: Managing Side Effects Effectively](https://tinyurl.com/Mastering-DisposableEffect) | Mastering DisposableEffect in Jetpack Compose: Managing Side Effects Effectively|  -  | -  | 2024-11-02 |
+| [Mastering FileProvider in Android](https://tinyurl.com/fileProvider-in-Android)  | Mastering FileProvider in Android: Secure File Sharing Explained |  -  | -  | 2024-10-19 |
 
 
 
