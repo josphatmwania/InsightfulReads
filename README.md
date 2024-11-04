@@ -20,6 +20,7 @@
 | [Mastering Android ViewModels: Essential Dos and Don’ts](https://shorturl.at/2GPmF)| Mastering Android ViewModels: Essential Dos and Don’ts Part 1 - 5 |  -  | - | 2024-10-31 |
 | [Jetpack Compose: Managing Side Effects Effectively](https://tinyurl.com/Mastering-DisposableEffect) | Mastering DisposableEffect in Jetpack Compose: Managing Side Effects Effectively|  -  | -  | 2024-11-02 |
 | [Mastering FileProvider in Android](https://tinyurl.com/fileProvider-in-Android)  | Mastering FileProvider in Android: Secure File Sharing Explained |  -  | -  | 2024-10-19 |
+| [Compose Compiler Plugin magic](https://tinyurl.com/Compose-Compiler)  | How Compose Compiler Plugin Works |  -  | -  | 2024-11-04 |
 
 
 
