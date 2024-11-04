@@ -34,6 +34,8 @@
 |-----------------|----------------------------------------|------------------------------------|------------------------------|--------------|
 | [Configuring a static website on Amazon S3](https://shorturl.at/37bTj)  | Tutorial: Configuring a static website on Amazon S3, Storage Content Delivery Networking,High Availability Amazon Web Services |  -  | -  | 2024-10-21 |
 | [Balancing Cost and Functionality in AWS](https://tinyurl.com/Cost-In-AWS)  | Balancing Cost and Functionality in AWS: A Journey from Free Tier Enthusiasm to Practical Realities by Winfred Ngina|  -  | -  | 2024-11-04 |
+| [AWS Security Services Overview](https://tinyurl.com/aws-security-2024)  | AWS Security Services Overview by Sena Yakut|  -  | -  | 2024-11-04 |
+
 
 
 
