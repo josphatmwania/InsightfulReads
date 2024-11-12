@@ -23,6 +23,8 @@
 | [Compose Compiler Plugin magic](https://tinyurl.com/Compose-Compiler)  | How Compose Compiler Plugin Works |  -  | -  | 2024-11-04 |
 | [Google Play PolicyBytes](https://tinyurl.com/Updates-GooglePlay)  | Google Play PolicyBytes - October 2024 policy updates|  -  | -  | 2024-11-04 |
 | [Grid System](https://tinyurl.com/grid-systemy)  | UI/UX Understanding the Grid System|  -  | -  | 2024-11-12 |
+| [Wireframe to Prototype](https://tinyurl.com/Wireframe-to-Prototype)| From Wireframe to Prototype: A Step-by-Step Guide to the UI/UX Process|  -  | -  |2024-11-12 |
+
 
 
 
