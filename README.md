@@ -25,6 +25,8 @@
 | [Grid System](https://tinyurl.com/grid-systemy)  | UI/UX Understanding the Grid System|  -  | -  | 2024-11-12 |
 | [Wireframe to Prototype](https://tinyurl.com/Wireframe-to-Prototype)| From Wireframe to Prototype: A Step-by-Step Guide to the UI/UX Process|  -  | -  |2024-11-12 |
 | [Why using Kotlin Coroutines?](https://kt.academy/article/cc-why)  | Why using Kotlin Coroutines? By Kotlin Academy |  -  | -  | 2024-10-19 |
+| [Curated Boilerplates ](https://tinyurl.com/custom-templates)|Curated list of boilerplates and templates to enhance productivity. |  -  | -  | 2024-11-14 |
+| [Android-Cookbook-Examples](https://tinyurl.com/Android-Cookbook-Examples)|Android Cookbook Examples. |  -  | -  | 2024-11-14 |
 
 
 
