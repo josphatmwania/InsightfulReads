@@ -27,6 +27,10 @@
 | [Why using Kotlin Coroutines?](https://kt.academy/article/cc-why)  | Why using Kotlin Coroutines? By Kotlin Academy |  -  | -  | 2024-10-19 |
 | [Curated Boilerplates ](https://tinyurl.com/custom-templates)|Curated list of boilerplates and templates to enhance productivity. |  -  | -  | 2024-11-14 |
 | [Android-Cookbook-Examples](https://tinyurl.com/Android-Cookbook-Examples)|Android Cookbook Examples. |  -  | -  | 2024-11-14 |
+| [Kotlin 2.0.20 : Compose Compiler Enhancements](https://tinyurl.com/Compose-Compiler-Enhancements)|Kotlin 2.0.20 brings several improvements to the Compose compiler, focusing on stability, performance, and developer experience|  -  | -  | 2024-11-21 |
+
+
+
 
 
 
