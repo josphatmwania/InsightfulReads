@@ -31,6 +31,8 @@
 | [Avoiding Duplicate Calls with Kotlin Coroutines](https://tinyurl.com/coroutines-duplicate)|Avoiding Duplicate Calls with Kotlin Coroutines|  -  | -  | 2024-11-21 |
 | [Jaewoong's Open-source Librarian](https://tinyurl.com/open-source-librarian)  | Becoming A Successful Open-Source Librarian by Jaewoong |  -  | -  | 2024-11-23 |
 | [Jetpack Compose vs. Traditional View](https://tinyurl.com/compose-vs-traditional-view)  | Jetpack Compose vs. Traditional View: Engineers’ Guide to Lifecycle Management |  -  | -  | 2024-11-25 |
+| [Basic Kotlin Syntax](https://tinyurl.com/kotlin-syntax)  | 16 Basic Kotlin Syntax that every Kotlin Developers must know. |  -  | -  | 2024-11-25 |
+
  
 
 
