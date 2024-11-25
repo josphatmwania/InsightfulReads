@@ -30,10 +30,8 @@
 | [Kotlin 2.0.20 : Compose Compiler Enhancements](https://tinyurl.com/Compose-Compiler-Enhancements)|Kotlin 2.0.20 brings several improvements to the Compose compiler, focusing on stability, performance, and developer experience|  -  | -  | 2024-11-21 |
 | [Avoiding Duplicate Calls with Kotlin Coroutines](https://tinyurl.com/coroutines-duplicate)|Avoiding Duplicate Calls with Kotlin Coroutines|  -  | -  | 2024-11-21 |
 | [Jaewoong's Open-source Librarian](https://tinyurl.com/open-source-librarian)  | Becoming A Successful Open-Source Librarian by Jaewoong |  -  | -  | 2024-11-23 |
-
-
-
-
+| [Jetpack Compose vs. Traditional View](https://tinyurl.com/compose-vs-traditional-view)  | Jetpack Compose vs. Traditional View: Engineers’ Guide to Lifecycle Management |  -  | -  | 2024-11-25 |
+ 
 
 
 
