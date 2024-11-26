@@ -32,6 +32,7 @@
 | [Jaewoong's Open-source Librarian](https://tinyurl.com/open-source-librarian)  | Becoming A Successful Open-Source Librarian by Jaewoong |  -  | -  | 2024-11-23 |
 | [Jetpack Compose vs. Traditional View](https://tinyurl.com/compose-vs-traditional-view)  | Jetpack Compose vs. Traditional View: Engineers’ Guide to Lifecycle Management |  -  | -  | 2024-11-25 |
 | [Basic Kotlin Syntax](https://tinyurl.com/kotlin-syntax)  | 16 Basic Kotlin Syntax that every Kotlin Developers must know. |  -  | -  | 2024-11-25 |
+| [Kotlin Code Organization Guidelines](https://tinyurl.com/code-organization-kotlin)  | 5 Source Code Organization Guidelines & Best Practices in Kotlin |  -  | -  | 2024-11-26 |
 
  
 
