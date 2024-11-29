@@ -34,6 +34,7 @@
 | [Basic Kotlin Syntax](https://tinyurl.com/kotlin-syntax)  | 16 Basic Kotlin Syntax that every Kotlin Developers must know. |  -  | -  | 2024-11-25 |
 | [Kotlin Code Organization Guidelines](https://tinyurl.com/code-organization-kotlin)  | 5 Source Code Organization Guidelines & Best Practices in Kotlin |  -  | -  | 2024-11-26 |
 | [Jetpack Compose Best Practices for Optimizing Your App Performance](https://getstream.io/blog/jetpack-compose-guidelines/)  | 6 Jetpack Compose Best Practices for Optimizing Your App Performance by Jaewoong |  -  | -  | 2024-11-28 |
+| [Understanding One-Time Events in Kotlin](https://tinyurl.com/Kotlin-One-Time-Events)| Understanding One-Time Events in Kotlin: Anti-Pattern or Necessary Evil? |  -  | -  | 2024-10-19 |
  
 
 
