@@ -36,8 +36,12 @@
 | [Jetpack Compose Best Practices for Optimizing Your App Performance](https://getstream.io/blog/jetpack-compose-guidelines/)  | 6 Jetpack Compose Best Practices for Optimizing Your App Performance by Jaewoong |  -  | -  | 2024-11-28 |
 | [Understanding One-Time Events in Kotlin](https://tinyurl.com/Kotlin-One-Time-Events)| Understanding One-Time Events in Kotlin: Anti-Pattern or Necessary Evil? |  -  | -  | 2024-12-03 |
 | [9 Extension Function Secrets in Kotlin](https://tinyurl.com/extensions-funtions)| 9 Extension Function Secrets in Kotlin |  -  | -  | 2024-12-03 |
+| [How to Avoid Recomposition Loops in Jetpack Compose](https://tinyurl.com/recomposition-loops)  | How to Avoid Recomposition Loops in Jetpack Compose |  -  | -  | 2024-12-08 |
+
+
 
  
+
 
 
 
