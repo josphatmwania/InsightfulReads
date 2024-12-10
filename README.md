@@ -37,6 +37,7 @@
 | [Understanding One-Time Events in Kotlin](https://tinyurl.com/Kotlin-One-Time-Events)| Understanding One-Time Events in Kotlin: Anti-Pattern or Necessary Evil? |  -  | -  | 2024-12-03 |
 | [9 Extension Function Secrets in Kotlin](https://tinyurl.com/extensions-funtions)| 9 Extension Function Secrets in Kotlin |  -  | -  | 2024-12-03 |
 | [How to Avoid Recomposition Loops in Jetpack Compose](https://tinyurl.com/recomposition-loops)  | How to Avoid Recomposition Loops in Jetpack Compose |  -  | -  | 2024-12-08 |
+| [Migration Guide from Retrofit and KAPT to Ktor and KSP](https://tinyurl.com/kapt-to-ktor-and-ksp)  |Prodev ~ Migration Guide from Retrofit and KAPT to Ktor and KSP  |  -  | -  | 2024-12-10 |
 
 
 
