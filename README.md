@@ -38,10 +38,10 @@
 | [9 Extension Function Secrets in Kotlin](https://tinyurl.com/extensions-funtions)| 9 Extension Function Secrets in Kotlin |  -  | -  | 2024-12-03 |
 | [How to Avoid Recomposition Loops in Jetpack Compose](https://tinyurl.com/recomposition-loops)  | How to Avoid Recomposition Loops in Jetpack Compose |  -  | -  | 2024-12-08 |
 | [Migration Guide from Retrofit and KAPT to Ktor and KSP](https://tinyurl.com/kapt-to-ktor-and-ksp)  |Prodev ~ Migration Guide from Retrofit and KAPT to Ktor and KSP  |  -  | -  | 2024-12-10 |
+| [Why Accessibility Matters](https://tinyurl.com/accessibility-in-apps)  |Crafting Inclusive Apps with Jetpack Compose: A Deep Dive into Accessibility, ScreenReader  |  -  | -  | 2024-12-14 |
 
 
 
- 
 
 
 
