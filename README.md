@@ -42,6 +42,7 @@
 | [Gradle Convention Plugins](https://tinyurl.com/Gradle-Convention-Plugins)  |Gradle Convention Plugins: A Powerful Tool for Reusing Build Configuration  |  -  | -  | 2024-12-14 |
 | [Compose Drag & Drop](https://tinyurl.com/Compose-drag-drop)  | How easy is drag-and-drop in Compose? |  -  | -  | 2024-12-16 |
 | [MockK and Mocking Basics](https://tinyurl.com/mockk-and-mocking-basic)  | Introduction to MockK and Mocking Basics Part 1|  -  | -  | 2024-12-24 |
+| [Android UI Leads by Lackner](https://tinyurl.com/android-ui-lackner)| Why a Dumb Android UI Leads to a More Performant And Overall Safer Codebase|  -  | -  | 2024-12-24 |
 
 
 
