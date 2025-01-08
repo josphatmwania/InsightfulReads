@@ -64,6 +64,12 @@ y|  -  | -  | 2024-01-08 |
 | [AWS Security Services Overview](https://tinyurl.com/aws-security-2024)  | AWS Security Services Overview by Sena Yakut|  -  | -  | 2024-11-04 |
 
 
+## General | Job Hunting | 
+
+| Blog Name       | Description                            | Problem Solved                     | Repo                          | Date Added   |
+|-----------------|----------------------------------------|------------------------------------|------------------------------|--------------|
+| [Job Hunting & Interview Insights ](https://tinyurl.com/job-hunting-Insights)|The Christmas Roast — Tech Job Hunt Nightmares, Layoffs, and Inflation Challenges by Josphat Mwania |  -  | -  | 2025-01-08 |
+
 
 
 ## Ethical Hacking
