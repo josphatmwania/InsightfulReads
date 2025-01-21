@@ -46,7 +46,7 @@
 | [Memory Leaks in Android](https://tinyurl.com/memory-leaks-in-android)| Understanding Memory Leaks in Android & How LeakCanary Can Help|  -  | -  | 2024-01-02 |
 | [Exception Handling in Kotlin Coroutines](https://tinyurl.com/exception-handling-in-kotlin)| Effective Exception Handling in Kotlin Coroutines|  -  | -  | 2024-01-02 |
 | [Null Safety in Kotlin ](https://tinyurl.com/null-safety-in-kotlin)| How to Handle Null Safety in Kotlin Effectively|  -  | -  | 2024-01-04 |
-| [Mastering Navigation ](https://tinyurl.com/mastering-nav)| Mastering Navigation Launch Modes in Jetpack Compose: Real-World Use Cases and Examples | -  | -  | 2024-01-08 |
+| [Mastering Shimmer Effects in Jetpack Compose](https://tinyurl.com/shimmer-effects)  | Mastering Shimmer Effects in Jetpack Compose: A Step-by-Step Guide |  -  | -  | 2025-01-21 |
 
 
 
