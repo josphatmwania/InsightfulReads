@@ -49,7 +49,7 @@
 | [Mastering Shimmer Effects in Jetpack Compose](https://tinyurl.com/shimmer-effects)  | Mastering Shimmer Effects in Jetpack Compose: A Step-by-Step Guide |  -  | -  | 2025-01-21 |
 | [Push Notification Delivery Success in Android](https://tinyurl.com/android-push-notifications)  |Enhancing Push Notification Delivery Success in Android Using Server-Sent Events|  -  | -  | 2025-01-22 |
 | [Android Roadmap in 2025](https://tinyurl.com/android-Roadmap2025)  |Roadmap to Android App Development in 2025|  -  | -  | 2025-01-28 |
-
+| [Ktor Client](https://tinyurl.com/ktor-client-network)  | Ktor Client for Network Client Provider for Android |  -  | -  | 2024-01-31 |
 
 
 
