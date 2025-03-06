@@ -54,7 +54,7 @@
 | [Freelancing as a Developer in 2025](https://tinyurl.com/start-freelancing-developer) | How to Start Freelancing as a Developer in 2025 — A Beginner’s Guide |  -  | -  | 2024-02-19 |
 | [Making your Android App go edge-to-edge with Jetpack Compose.](https://tinyurl.com/insets-android) | Compose Tips : Making your Android App go edge-to-edge with Jetpack Compose. |  -  | -  | 2024-02-20 |
 | [Handling Token Expiration in Ktor](https://tinyurl.com/TokenRefresh-ktor) | Handling Token Expiration in Ktor: Automatic Token Refresh for API Calls|  -  | -  | 2024-02-28 |
-
+| [How I Manage Tech Debt Better as a Senior Developer](https://tinyurl.com/managing-tech-debt) | Manage Tech Debt Better as a Senior Developer|  -  | -  | 06-03-2025 |
 
 
 
