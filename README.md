@@ -56,10 +56,7 @@
 | [Handling Token Expiration in Ktor](https://tinyurl.com/TokenRefresh-ktor) | Handling Token Expiration in Ktor: Automatic Token Refresh for API Calls|  -  | -  | 2024-02-28 |
 | [How I Manage Tech Debt Better as a Senior Developer](https://tinyurl.com/managing-tech-debt) | Manage Tech Debt Better as a Senior Developer|  -  | -  | 06-03-2025 |
 | [Modern Android App Architecture](https://tinyurl.com/2025-android-architecture)  | Modern Android App Architecture with Clean Code Principles (2025 Edition) |  -  | -  | 2025-03-05 |
-
-
-
-
+| [Explore Kotlin extension functions](https://tinyurl.com/kotlin-extensions)  | Stop Using if and Start Using These Kotlin Tricks Instead |  -  | -  | 2025-03-05 |
 
 
 
