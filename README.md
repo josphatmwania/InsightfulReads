@@ -59,6 +59,15 @@
 | [Explore Kotlin extension functions](https://tinyurl.com/kotlin-extensions)  | Stop Using if and Start Using These Kotlin Tricks Instead |  -  | -  | 2025-03-05 |
 
 
+## Dart & Flutter
+
+| Blog Name       | Description                            | Problem Solved                     | Repo                          | Date Added   |
+|-----------------|----------------------------------------|------------------------------------|------------------------------|--------------|
+
+| [Stop Using Layer-First in Flutter](https://tinyurl.com/Layer-First-in-Flutter) | Layer-First in Flutter X Architecture alternatives |  -  | -  | 2024-05-11 |
+
+
+
 
 
 ## Cloud Computing & Security
