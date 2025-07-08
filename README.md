@@ -57,6 +57,8 @@
 | [How I Manage Tech Debt Better as a Senior Developer](https://tinyurl.com/managing-tech-debt) | Manage Tech Debt Better as a Senior Developer|  -  | -  | 06-03-2025 |
 | [Modern Android App Architecture](https://tinyurl.com/2025-android-architecture)  | Modern Android App Architecture with Clean Code Principles (2025 Edition) |  -  | -  | 2025-03-05 |
 | [Explore Kotlin extension functions](https://tinyurl.com/kotlin-extensions)  | Stop Using if and Start Using These Kotlin Tricks Instead |  -  | -  | 2025-03-05 |
+| [Side Effects in Jetpack Compose](https://tinyurl.com/Compose-Side-Effects)  | Side Effects in Jetpack Compose: From Theory to Production-Proven Practice |  -  | -  | 2025-08-07 |
+
 
 
 ## Dart & Flutter
